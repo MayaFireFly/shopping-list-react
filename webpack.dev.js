@@ -4,7 +4,7 @@ module.exports = {
   mode:'development',
   devtool:'eval-source-map',
   devServer:{
-    host: '192.168.1.5',
+    host: '192.168.1.6',
     contentBase:__dirname + '/dist',
     port: 3000,
     publicPath: '/',
